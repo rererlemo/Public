@@ -117,3 +117,11 @@ header p {
   color: #222;
   font-size: 14px;
 }
+.result {
+  display: grid !important;
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  gap: 8px !important;
+  padding: 16px !important;
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+}
