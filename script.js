@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
           name: "#14-Hayato",
           image:
-            "https://ebidan.jp/static/ebidan/fanclub/feature/ebidan_15thanniversary/img/profile/ph_new_10_milk_sano_a5htxd98.jpg",
+            "https://ebidan.jp/static/ebidan/fanclub/feature/ebidan_15thanniversary/img/profile/ph_hero_10_milk_sano_a5htxd98.jpg",
         },
         {
           name: "#8-Daichi",
