@@ -357,7 +357,8 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "⑩ iiONDO",
       members: [
-        { name: "#_-Koki", image: null },
+        { name: "#_-Koki", 
+         image: "https://iiondo.com/feature/profile/image/profile/iiondo_mimura_koki.jpg" },
         { name: "#_-Shumpei", image: null },
         { name: "#_-Katsugu", image: null },
         { name: "#_-Yumeto", image: null },
